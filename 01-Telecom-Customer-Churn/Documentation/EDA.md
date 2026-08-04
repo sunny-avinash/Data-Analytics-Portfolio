@@ -1,3 +1,23 @@
+Business Question 1
+What is the total number of customers?
+
+SELECT COUNT(*) AS Total_Customers
+FROM raw_telco_churn;
+
+Business Question 2
+How many customers have churned?
+
+SELECT COUNT(*) AS Churned_Customers
+FROM raw_telco_churn
+WHERE Churn = 'Yes';
+
+Business Question 3
+How many customers are active?
+
+SELECT COUNT(*) AS Active_Customers
+FROM raw_telco_churn
+WHERE Churn = 'No';
+
 ## Business Question 4
 
 ### Question
