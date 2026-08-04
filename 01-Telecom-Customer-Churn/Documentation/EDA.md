@@ -1,4 +1,4 @@
-Business Question 1
+##Business Question 1
 What is the total number of customers?
 
 SELECT COUNT(*) AS Total_Customers
