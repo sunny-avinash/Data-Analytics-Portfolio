@@ -1,0 +1,5 @@
+Shift_ID,Shift,Start_Time,End_Time
+S001,Morning,06:00,15:00
+S002,General,09:00,18:00
+S003,Evening,14:00,23:00
+S004,Night,22:00,07:00

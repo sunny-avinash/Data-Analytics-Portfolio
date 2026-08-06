@@ -1,0 +1,11 @@
+Country_ID,Country,Region,Language,Timezone
+C001,USA,Americas,English,UTC-5
+C002,Canada,Americas,English,UTC-5
+C003,UK,EMEA,English,UTC+0
+C004,Germany,EMEA,German,UTC+1
+C005,France,EMEA,French,UTC+1
+C006,Japan,APAC,Japanese,UTC+9
+C007,Australia,APAC,English,UTC+10
+C008,India,APAC,English,UTC+5:30
+C009,Singapore,APAC,English,UTC+8
+C010,UAE,MEA,Arabic,UTC+4

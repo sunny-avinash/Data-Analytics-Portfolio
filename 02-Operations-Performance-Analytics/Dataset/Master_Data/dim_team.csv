@@ -1,0 +1,7 @@
+Team_ID,Team_Name,Target_Productivity,Target_Quality,Region
+T001,Alpha,95,98,APAC
+T002,Bravo,94,97,APAC
+T003,Charlie,95,98,EMEA
+T004,Delta,93,97,Americas
+T005,Echo,92,96,Americas
+T006,Foxtrot,94,98,APAC

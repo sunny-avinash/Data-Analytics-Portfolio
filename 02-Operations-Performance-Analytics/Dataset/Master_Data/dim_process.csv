@@ -1,0 +1,11 @@
+Process_ID,Process_Name,Queue,Complexity,SLA_Hours,Std_AHT_Min
+P001,Maps Validation,Medium,Medium,24,6
+P002,POI Verification,Low,Low,12,4
+P003,Navigation QA,High,High,36,10
+P004,Street Search Cleanup,Medium,Medium,24,7
+P005,Land Cover,High,High,48,12
+P006,Drive Coding,Medium,High,36,9
+P007,Address Validation,Low,Low,12,3
+P008,Road Geometry Review,High,Critical,48,14
+P009,Imagery Validation,Medium,Medium,24,8
+P010,Routing Validation,High,High,36,10
